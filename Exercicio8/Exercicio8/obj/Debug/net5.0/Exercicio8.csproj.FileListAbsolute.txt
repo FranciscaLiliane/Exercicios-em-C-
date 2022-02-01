@@ -1,0 +1,16 @@
+C:\Users\liliane.silva\source\Ws 2019\Exercicio8\Exercicio8\bin\Debug\net5.0\Exercicio8.exe
+C:\Users\liliane.silva\source\Ws 2019\Exercicio8\Exercicio8\bin\Debug\net5.0\Exercicio8.deps.json
+C:\Users\liliane.silva\source\Ws 2019\Exercicio8\Exercicio8\bin\Debug\net5.0\Exercicio8.runtimeconfig.json
+C:\Users\liliane.silva\source\Ws 2019\Exercicio8\Exercicio8\bin\Debug\net5.0\Exercicio8.runtimeconfig.dev.json
+C:\Users\liliane.silva\source\Ws 2019\Exercicio8\Exercicio8\bin\Debug\net5.0\Exercicio8.dll
+C:\Users\liliane.silva\source\Ws 2019\Exercicio8\Exercicio8\bin\Debug\net5.0\ref\Exercicio8.dll
+C:\Users\liliane.silva\source\Ws 2019\Exercicio8\Exercicio8\bin\Debug\net5.0\Exercicio8.pdb
+C:\Users\liliane.silva\source\Ws 2019\Exercicio8\Exercicio8\obj\Debug\net5.0\Exercicio8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\liliane.silva\source\Ws 2019\Exercicio8\Exercicio8\obj\Debug\net5.0\Exercicio8.AssemblyInfoInputs.cache
+C:\Users\liliane.silva\source\Ws 2019\Exercicio8\Exercicio8\obj\Debug\net5.0\Exercicio8.AssemblyInfo.cs
+C:\Users\liliane.silva\source\Ws 2019\Exercicio8\Exercicio8\obj\Debug\net5.0\Exercicio8.csproj.CoreCompileInputs.cache
+C:\Users\liliane.silva\source\Ws 2019\Exercicio8\Exercicio8\obj\Debug\net5.0\Exercicio8.dll
+C:\Users\liliane.silva\source\Ws 2019\Exercicio8\Exercicio8\obj\Debug\net5.0\ref\Exercicio8.dll
+C:\Users\liliane.silva\source\Ws 2019\Exercicio8\Exercicio8\obj\Debug\net5.0\Exercicio8.pdb
+C:\Users\liliane.silva\source\Ws 2019\Exercicio8\Exercicio8\obj\Debug\net5.0\Exercicio8.genruntimeconfig.cache
+C:\Users\liliane.silva\source\Ws 2019\Exercicio8\Exercicio8\obj\Debug\net5.0\Exercicio8.csproj.AssemblyReference.cache
